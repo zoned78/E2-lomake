@@ -1,0 +1,348 @@
+VALUE_ID,VALUE_DESCRIPTION,FI
+1,Azores,Azores
+4,Albania,Albania
+7,Andorra,Andorra
+14,Kosovo,Kosovo
+16,Austria,Itävalta
+24,Belgium,Belgia
+37,Bulgaria,Bulgaria
+62,Cyprus,Kypros
+63,Czech Republic,Tšekki
+67,Denmark,Tanska
+78,Faroe Islands,Färsaaret
+81,Finland,Suomi
+82,France,Ranska
+95,Germany,Saksa
+98,Gibraltar,Gibraltar
+101,Greece,Kreikka
+102,Greenland,Grönlanti
+111,Vatican City,Vatican City
+114,Hungary,Unkari
+115,Iceland,Islanti
+120,Ireland,Irlanti
+122,Italy,Italia
+139,Liechtenstein,Liechtenstein
+141,Luxembourg,Luxemburg
+144,Madeira,Madeira
+149,Malta,Malta
+157,Monaco,Monaco
+166,Netherlands,Alankomaat
+179,Norway,Norja
+193,Poland,Puola
+194,Portugal,Portugali
+198,Romania,Romania
+210,San Marino,San Marino
+221,Spain,Espanja
+228,Sweden,Ruotsi
+229,Switzerland,Sveitsi
+241,Turkey,Turkki
+246,United Kingdom,Yhdistynyt kuningaskunta
+276,Armenia,Armenia
+277,Azerbaijan,Azerbaidžan
+278,Belarus,Valko-Venäjä
+279,Croatia,Kroatia
+280,Estonia,Viro
+281,Georgia,Georgia
+282,Kazakhstan,Kazakstan
+284,Kyrgyzstan,Kirgisia
+285,Latvia,Latvia
+286,Lithuania,Liettua
+287,Moldova,Moldova
+288,Russian Federation,Venäjä
+289,Slovakia,Slovakia
+290,Slovenia,Slovenia
+291,Tajikistan,Tadžikistan
+293,Turkmenistan,Turkmenistan
+294,Ukraine,Ukraina
+295,Uzbekistan,Uzbekistan
+297,Bosnia and Herzegovina,Bosnia ja Hertsegovina
+310,Black Sea,Black Sea
+312,Åland Islands,Ahvenanmaa
+313,Guernsey,Guernsey
+314,Isle of Man,Mansaari
+315,Jersey,Jersey
+316,Macedonia,Macedonia
+318,Montenegro,Montenegro
+319,Serbia,Serbia
+322,Akrotiri and Dhekelia,Akrotiri and Dhekelia
+325,North Sea,North Sea
+326,Baltic Sea,Baltic Sea
+327,Gulf of Bothnia,Gulf of Bothnia
+328,English Channel,English Channel
+329,Bay of Biscay,Bay of Biscay
+330,Irish Sea,Irish Sea
+331,Norwegian Sea,Norwegian Sea
+332,Gulf of Finland,Gulf of Finland
+333,Gulf of Riga,Gulf of Riga
+334,Straight of Gibraltar,Straight of Gibraltar
+335,Ligurean Sea,Ligurean Sea
+336,Turrhenian Sea,Turrhenian Sea
+337,Adriatic Sea,Adriatic Sea
+338,Ionian Sea,Ionian Sea
+339,Agean Sea,Agean Sea
+340,Caspian Sea,Caspian Sea
+341,Sea of Azov,Sea of Azov
+342,White Sea,White Sea
+343,Barents Sea,Barents Sea
+344,Sea of Crete,Sea of Crete
+21,Bangladesh,Bangladesh
+28,Bhutan,Bhutan
+36,Brunei Darussalam,Brunei
+39,Myanmar,Myanmar (Burma)
+52,China,Kiina
+65,"Korea, North","Korea, North"
+116,India,Intia
+117,Indonesia,Indonesia
+125,Japan,Japani
+130,"Korea, South","Korea, South"
+133,Lao People's Democratic Republic,Laos
+146,Malaysia,Malesia
+147,Maldives,Malediivit
+158,Mongolia,Mongolia
+165,Nepal,Nepal
+191,Philippines,Filippiinit
+217,Singapore,Singapore
+222,Sri Lanka,Sri Lanka
+231,Taiwan,Taiwan
+234,Thailand,Thaimaa
+255,Vietnam,Vietnam
+298,Cambodia,Kambodža
+307,Hong Kong,Hongkong – Kiinan erityishallintoalue
+308,Macao,Macao – Kiinan erityishallintoalue
+311,Timor-Leste,Itä-Timor
+345,Red Sea,Red Sea
+346,Gulf of Aden,Gulf of Aden
+347,Arabian Sea,Arabian Sea
+348,Bay of Bengal,Bay of Bengal
+349,Indian Ocean,Indian Ocean
+350,Adaman Sea,Adaman Sea
+351,Gulf of Thailand,Gulf of Thailand
+352,Java Sea,Java Sea
+353,South China Sea,South China Sea
+354,Yellow Sea,Yellow Sea
+355,East China Sea,East China Sea
+356,Banda Sea,Banda Sea
+357,Celebes Sea,Celebes Sea
+358,Sulu Sea,Sulu Sea
+359,Philippine Sea,Philippine Sea
+360,Bering Sea,Bering Sea
+361,Timor Sea,Timor Sea
+363,Persian Gulf,Persian Gulf
+364,Gulf of Oman,Gulf of Oman
+365,Gulf of Tonking,Gulf of Tonking
+366,Taiwan Strait,Taiwan Strait
+367,Sea of Japan,Sea of Japan
+368,Kara Sea,Kara Sea
+369,Laptev Sea,Laptev Sea
+370,East Siberian Sea,East Siberian Sea
+371,Bering Strait,Bering Strait
+372,Korea Bay,Korea Bay
+373,Bo Hai,Bo Hai
+374,Flores Sea,Flores Sea
+375,Molucca Sea,Molucca Sea
+376,Bohol Sea,Bohol Sea
+377,Moro Gulf,Moro Gulf
+378,Davao Gulf,Davao Gulf
+379,Gulf of Mannar,Gulf of Mannar
+1001,Sea of Okhotsk,Sea of Okhotsk
+6,American Samoa,Amerikan Samoa
+15,Australia,Australia
+33,British Indian Ocean Territory,Brittiläinen Intian valtameren alue
+34,Solomon Islands,Salomonsaaret
+53,Christmas Island,Joulusaari
+54,Cocos Islands,Cocos Islands
+58,Cook Islands,Cookinsaaret
+71,Easter island,Easter island
+80,Fiji,Fidži
+84,French Polynesia,Ranskan Polynesia
+105,Guam,Guam
+126,Johnston Island,Johnston Island
+150,Mariana Islands,Mariana Islands
+151,Marshall Islands,Marshallinsaaret
+156,Midway,Midway
+164,Nauru,Nauru
+169,New Caledonia,Uusi-Kaledonia
+173,New Zealand,Uusi-Seelanti
+177,Niue,Niue
+178,Norfolk Island,Norfolkinsaari
+187,Papua New Guinea,Papua-Uusi-Guinea
+192,Pitcairn Islands,Pitcairn Islands
+209,Samoa,Samoa
+237,Tokelau Islands,Tokelau Islands
+238,Tonga,Tonga
+252,Vanuatu,Vanuatu
+260,Wake Island,Wake Island
+261,Wallis and Futuna Islands,Wallis and Futuna Islands
+283,Kiribati,Kiribati
+303,"Micronesia, Federated States of",Mikronesia
+304,Palau,Palau
+306,Tuvalu,Tuvalu
+380,Souther Ocean,Souther Ocean
+381,Tasman Sea,Tasman Sea
+382,Coral Sea,Coral Sea
+383,Gulf of Carpentaria,Gulf of Carpentaria
+384,Bismarck Sea,Bismarck Sea
+385,Solomon Sea,Solomon Sea
+2,Afghanistan,Afganistan
+20,Bahrain,Bahrain
+118,"Iran, Islamic Republic of",Iran
+119,Iraq,Irak
+121,Israel,Israel
+127,Jordan,Jordania
+131,Kuwait,Kuwait
+135,Lebanon,Libanon
+180,Oman,Oman
+184,Pakistan,Pakistan
+196,Qatar,Qatar
+212,Saudi Arabia,Saudi-Arabia
+230,Syria,Syria
+245,United Arab Emirates,Arabiemiirikunnat
+263,Yemen,Jemen
+321,Palestine,Palestine
+386,Arabian Sea,Arabian Sea
+387,Gulf of Aquaba,Gulf of Aquaba
+5,Algeria,Algeria
+8,Angola,Angola
+13,Ascension Island,Ascension Island
+26,Benin,Benin
+30,Botswana,Botswana
+38,Burkina Faso,Burkina Faso
+40,Burundi,Burundi
+42,Cameroon,Kamerun
+44,Canary Islands,Canary Islands
+46,Cape Verde,Cape Verde
+49,Central African Republic,Keski-Afrikan tasavalta
+50,Chad,Tšad
+56,Comoros,Komorit
+57,"Congo, Republic of the","Congo, Republic of the"
+68,Djibouti,Djibouti
+73,Egypt,Egypti
+75,Equatorial Guinea,Päiväntasaajan Guinea
+76,Ethiopia,Etiopia
+89,Gabon,Gabon
+90,Gambia,Gambia
+97,Ghana,Ghana
+107,Guinea,Guinea
+108,Guinea-Bissau,Guinea-Bissau
+123,Ivory Coast,Ivory Coast
+128,Kenya,Kenia
+136,Lesotho,Lesotho
+137,Liberia,Liberia
+138,Libya,Libya
+143,Madagascar,Madagaskar
+145,Malawi,Malawi
+148,Mali,Mali
+153,Mauritania,Mauritania
+154,Mauritius,Mauritius
+160,Morocco,Marokko
+161,Mozambique,Mosambik
+163,Namibia,Namibia
+175,Niger,Niger
+176,Nigeria,Nigeria
+197,Réunion,Réunion
+199,Rwanda,Ruanda
+202,Saint Helena,Saint Helena
+211,Sao Tome and Principe,São Tomé ja Príncipe
+213,Senegal,Senegal
+214,Seychelles,Seychellit
+215,Sierra Leone,Sierra Leone
+218,Somalia,Somalia
+219,South Africa,Etelä-Afrikka
+224,Sudan,Sudan
+227,Swaziland,Swaziland
+236,Togo,Togo
+240,Tunisia,Tunisia
+243,Uganda,Uganda
+248,Tanzania,Tansania
+266,Zambia,Sambia
+269,Zimbabwe,Zimbabwe
+299,Eritrea,Eritrea
+309,"Congo, Democratic Republic of the","Congo, Democratic Republic of the"
+317,Mayotte,Mayotte
+320,Western Sahara,Länsi-Sahara
+324,Tristan da Cunha,Tristan da Cunha
+388,Gulf of Guinea,Gulf of Guinea
+389,Mozambique Channel,Mozambique Channel
+1306,South Sudan,Etelä-Sudan
+43,Canada,Kanada
+206,Saint Pierre and Miquelon,Saint-Pierre ja Miquelon
+249,United States,Yhdysvallat
+390,Baffin Bay,Baffin Bay
+391,Hudson Bay,Hudson Bay
+392,Beaufort Sea,Beaufort Sea
+393,Labrador Sea,Labrador Sea
+394,Gulf of Alaska,Gulf of Alaska
+395,Bering Sea,Bering Sea
+396,Davis Strait,Davis Strait
+397,Lincoln Sea,Lincoln Sea
+398,Denmark Strait,Denmark Strait
+399,Caribbean Sea,Caribbean Sea
+400,Gulf of California,Gulf of California
+1002,Gulf of Mexico,Gulf of Mexico
+1003,Hudson Strait,Hudson Strait
+1004,Sargasso Sea,Sargasso Sea
+11,Argentina,Argentiina
+29,Bolivia,Bolivia
+31,Brazil,Brasilia
+51,Chile,Chile
+55,Colombia,Kolumbia
+72,Ecuador,Ecuador
+79,Falkland Islands (Malvinas),Falklandinsaaret
+83,French Guyana,French Guyana
+109,Guyana,Guyana
+189,Paraguay,Paraguay
+190,Peru,Peru
+225,Suriname,Suriname
+251,Uruguay,Uruguay
+254,Venezuela,Venezuela
+401,Golfo San Jorge,Golfo San Jorge
+402,Golfo San Matias,Golfo San Matias
+403,Bahia Grande,Bahia Grande
+404,Magellan's Strait,Magellan's Strait
+9,Anguilla,Anguilla
+10,Antigua and Barbuda,Antigua ja Barbuda
+12,Aruba,Aruba
+19,Bahamas,Bahama
+22,Barbados,Barbados
+25,Belize,Belize
+27,Bermuda,Bermuda
+48,Cayman Islands,Caymansaaret
+59,Costa Rica,Costa Rica
+61,Cuba,Kuuba
+69,Dominica,Dominica
+70,Dominican Republic,Dominikaaninen tasavalta
+74,El Salvador,El Salvador
+103,Grenada,Grenada
+104,Guadeloupe,Guadeloupe
+106,Guatemala,Guatemala
+110,Haiti,Haiti
+112,Honduras,Honduras
+124,Jamaica,Jamaika
+152,Martinique,Martinique
+155,Mexico,Meksiko
+159,Montserrat,Montserrat
+167,Sint Maarten,Sint Maarten
+174,Nicaragua,Nicaragua
+185,Panama,Panama
+195,Puerto Rico,Puerto Rico
+204,Saint Kitts and Nevis,Saint Kitts ja Nevis
+205,Saint Lucia,Saint Lucia
+208,Saint Vincent and the Grenadines,Saint Vincent ja Grenadiinit
+239,Trinidad and Tobago,Trinidad ja Tobago
+242,Turks and Caicos Islands,Turks- ja Caicossaaret
+256,Virgin Islands (UK),Virgin Islands (UK)
+257,Virgin Islands (US),Virgin Islands (US)
+501,Saint Barthélemy,Saint-Barthélemy
+502,Saint Martin,Saint Martin
+1310,"Bonaire, Sint Eustatius and Saba",Karibian Alankomaat
+1311,Curaçao,Curaçao
+267,Antarctic Ocean,Antarctic Ocean
+268,Arctic Ocean,Arctic Ocean
+270,Indian Ocean,Indian Ocean
+271,Mediterranean Sea,Mediterranean Sea
+272,North Atlantic Ocean,North Atlantic Ocean
+273,North Pacific Ocean,North Pacific Ocean
+274,South Atlantic Ocean,South Atlantic Ocean
+275,South Pacific Ocean,South Pacific Ocean
+296,Antarctica,Antarktis
+323,French Southern and Antarctic Lands,French Southern and Antarctic Lands
